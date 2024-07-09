@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* hero background start here */
+.hero-bg{
+    width: 1440px;
+    height: 652px;
+    border: 2px red solid;
+}
