@@ -54,3 +54,66 @@
     border-radius: 8px;
     background: rgb(13, 19, 33);
 }
+
+/* four content design start here */
+
+.four-container{
+    width: 1140px;
+    height:1395px ;
+    margin: 0 auto;
+    border: 2px red solid;
+    margin-top: 74px;
+}
+/* secound-h2-p */
+.secound-h2-p{
+    text-align: center;
+}
+.why-web{
+    font-family: Azeret Mono;
+    font-size: 40px;
+    margin-top: 80px;
+}
+.secound-p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    margin-top: 20px;
+}
+/* third number fig design  */
+.scnd-h1-p-btn{
+    width: 946px;
+    height: 336px;
+    /* border: 2px red solid; */
+    margin: 0 auto;
+    margin-top: 48px;
+    display: flex;
+}
+.snd-h-p{
+    width: 477px;
+    height: 220px;
+    /* border: 2px red solid; */
+    margin: 48px;
+}
+.will-do{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 25px;
+    margin-top: 7px;
+}
+.great-programmer{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.btn-learn-more{
+    padding: 12px 20px;
+    margin-top: 30px;
+    color: rgba(11, 14, 14, 0.87);
+    font-family: Azeret Mono;
+    font-size: 20px;  
+}
+.laye-one-png{
+    margin: 48px;
+    margin-left: 99.77px;
+}
