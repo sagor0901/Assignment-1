@@ -176,7 +176,7 @@ border-radius: 16px;
 }
 .yt-video{
     width: 1076px;
-    height: 614px;
+    height: 550px;
     border-radius: 16px;
     margin:32px;
 }
@@ -207,4 +207,56 @@ border-radius: 16px;
     font-family: Azeret Mono;
     font-size: 16px;
     margin-top: 24px;
+}
+/* html css and java section start here  */
+
+.h-c-j-container{
+    width: 1140px;
+    height:299px ;
+    margin-top: 48px;
+    border: 2px red solid;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.html-container{
+    width: 364px;
+    height: 299px;
+    border: 2px red solid;
+    border-radius: 16px;
+
+background: rgba(255, 76, 30, 0.05);
+}
+
+.html-content{
+    width: 284px;
+    height: 219px;
+    border: 2px red solid;
+    margin: 40px auto;
+}
+.h-one{
+    margin-top: 24px;
+    margin-bottom: 8px;
+}
+.hyper-text{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+.css-content{
+    width: 284px;
+    height: 219px;
+    border: 2px red solid;
+    margin: 40px auto;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.java-content{
+    width: 284px;
+    height: 219px;
+    border: 2px red solid;
+    margin: 40px auto;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
 }
