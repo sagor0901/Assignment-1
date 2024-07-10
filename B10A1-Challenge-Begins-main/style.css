@@ -198,6 +198,7 @@ border-radius: 16px;
     border: 2px red solid;
     margin: 0 auto;
     text-align: center;
+    background: rgb(255, 255, 255);
 }
 .curnt-terget{
     font-size: 30px;
@@ -225,7 +226,7 @@ border-radius: 16px;
     border: 2px red solid;
     border-radius: 16px;
 
-background: rgba(255, 76, 30, 0.05);
+/* background: rgba(255, 76, 30, 0.05); */
 }
 
 .html-content{
@@ -259,4 +260,74 @@ background: rgba(255, 76, 30, 0.05);
     margin: 40px auto;
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.05);
+}
+
+
+
+/* my next terger desing here  */
+
+.target-txt-container{
+    width: 946px;
+    height: 113px;
+    border: 2px red solid;
+    margin: 0 auto;
+    margin-top: 111px;
+    margin-bottom: 15px;
+}
+.target-h-p{
+    text-align: center;
+}
+/* Reactjs Nodejs Mongobd css start here  */
+.r-j-m{
+    width: 1140px;
+    height: 219px;
+    border: 2px red solid;
+    margin-top: 26px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+}
+
+.img-h-p{
+    width: 1060px;
+    height: 139px;
+    margin: 40px;
+    border: 2px red solid;
+    display: flex;
+}
+
+
+.r-j-s-png{
+    width: 94.78px;
+    height: 108px;
+    margin-top: 15.5px;
+    border: 2px red solid;
+}
+.r-j-m-content{
+    margin-left: 24px;
+}
+.react-js{
+    margin-top: 10px;
+    width: 941.22px;
+    height: 52px;
+}
+/* node section  */
+.node-png{
+    width: 143.3px;
+height: 87.75px;
+margin: 25px 24px 0px;
+}
+/* mongo section  */
+.mongo{
+    width: 1140px;
+    height: 219px;
+    border: 2px red solid;
+    margin-top: 24px;
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
 }
